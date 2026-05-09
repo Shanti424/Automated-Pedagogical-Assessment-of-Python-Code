@@ -1,0 +1,13 @@
+,mean,std,min,max
+total_ast_nodes,103.495,124.886,0.0,1450.0
+num_functions,1.178,2.01,0.0,34.0
+num_loops,0.362,0.959,0.0,27.0
+num_if_statements,0.695,1.572,0.0,45.0
+has_docstring,0.103,0.304,0.0,1.0
+num_lines,44.361,23.045,1.0,557.0
+num_comments,4.211,6.56,0.0,269.0
+comment_ratio,0.089,0.131,0.0,0.989
+avg_line_length,28.997,8.459,1.5,396.0
+indentation_depth,12.454,10.267,0.0,328.0
+has_main_block,0.123,0.328,0.0,1.0
+has_input_output,0.219,0.413,0.0,1.0
